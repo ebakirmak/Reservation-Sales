@@ -1,0 +1,31 @@
+C:\Users\Emre\Documents\Dersler\OOP\FinalOdevi\NYPFINAL\NYPFINAL\bin\Debug\NYPFINAL.exe.config
+C:\Users\Emre\Documents\Dersler\OOP\FinalOdevi\NYPFINAL\NYPFINAL\obj\Debug\NYPFINAL.Properties.Resources.resources
+C:\Users\Emre\Documents\Dersler\OOP\FinalOdevi\NYPFINAL\NYPFINAL\obj\Debug\NYPFINAL.csproj.GenerateResource.Cache
+C:\Users\Emre\Documents\Dersler\OOP\FinalOdevi\NYPFINAL\NYPFINAL\bin\Debug\NYPFINAL.exe
+C:\Users\Emre\Documents\Dersler\OOP\FinalOdevi\NYPFINAL\NYPFINAL\bin\Debug\NYPFINAL.pdb
+C:\Users\Emre\Documents\Dersler\OOP\FinalOdevi\NYPFINAL\NYPFINAL\obj\Debug\NYPFINAL.exe
+C:\Users\Emre\Documents\Dersler\OOP\FinalOdevi\NYPFINAL\NYPFINAL\obj\Debug\NYPFINAL.pdb
+C:\Users\Emre\Documents\Dersler\OOP\FinalOdevi\NYPFINAL\NYPFINAL\obj\Debug\NYPFINAL.frmAnasayfa.resources
+C:\Users\Emre\Documents\Dersler\OOP\FinalOdevi\NYPFINAL\NYPFINAL\obj\Debug\NYPFINAL.exe.licenses
+C:\Users\Emre\Documents\Dersler\OOP\FinalOdevi\NYPFINAL\NYPFINAL\obj\Debug\NYPFINAL.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Documents\Dersler\OOP\FinalOdevi\PROJE Dökümanları\NYPFINAL\NYPFINAL\bin\Debug\NYPFINAL.exe.config
+C:\Users\Emre\Documents\Dersler\OOP\FinalOdevi\PROJE Dökümanları\NYPFINAL\NYPFINAL\obj\Debug\NYPFINAL.exe
+C:\Users\Emre\Documents\Dersler\OOP\FinalOdevi\PROJE Dökümanları\NYPFINAL\NYPFINAL\obj\Debug\NYPFINAL.pdb
+C:\Users\Emre\Documents\Dersler\OOP\FinalOdevi\PROJE Dökümanları\NYPFINAL\NYPFINAL\bin\Debug\NYPFINAL.exe
+C:\Users\Emre\Documents\Dersler\OOP\FinalOdevi\PROJE Dökümanları\NYPFINAL\NYPFINAL\bin\Debug\NYPFINAL.pdb
+C:\Users\Emre\Documents\Dersler\OOP\FinalOdevi\PROJE Dökümanları\NYPFINAL\NYPFINAL\obj\Debug\NYPFINAL.frmAnasayfa.resources
+C:\Users\Emre\Documents\Dersler\OOP\FinalOdevi\PROJE Dökümanları\NYPFINAL\NYPFINAL\obj\Debug\NYPFINAL.Properties.Resources.resources
+C:\Users\Emre\Documents\Dersler\OOP\FinalOdevi\PROJE Dökümanları\NYPFINAL\NYPFINAL\obj\Debug\NYPFINAL.csproj.GenerateResource.Cache
+C:\Users\Emre\Documents\Dersler\OOP\FinalOdevi\PROJE Dökümanları\NYPFINAL\NYPFINAL\obj\Debug\NYPFINAL.exe.licenses
+C:\Users\Emre\Documents\Dersler\OOP\FinalOdevi\PROJE Dökümanları\NYPFINAL\NYPFINAL\obj\Debug\NYPFINAL.csprojResolveAssemblyReference.cache
+C:\Users\Emre Berk\Desktop\Documents\Dersler\3.YARIYIL\OOP\FinalOdevi\PROJE Dökümanları\NYPFINAL\NYPFINAL\bin\Debug\NYPFINAL.exe.config
+C:\Users\Emre Berk\Desktop\Documents\Dersler\3.YARIYIL\OOP\FinalOdevi\PROJE Dökümanları\NYPFINAL\NYPFINAL\obj\Debug\NYPFINAL.exe
+C:\Users\Emre Berk\Desktop\Documents\Dersler\3.YARIYIL\OOP\FinalOdevi\PROJE Dökümanları\NYPFINAL\NYPFINAL\obj\Debug\NYPFINAL.pdb
+D:\BELGELER\Dersler\3.YARIYIL\OOP\FinalOdevi\PROJE Dökümanları\NYPFINAL\NYPFINAL\bin\Debug\NYPFINAL.exe.config
+D:\BELGELER\Dersler\3.YARIYIL\OOP\FinalOdevi\PROJE Dökümanları\NYPFINAL\NYPFINAL\obj\Debug\NYPFINAL.exe
+D:\BELGELER\Dersler\3.YARIYIL\OOP\FinalOdevi\PROJE Dökümanları\NYPFINAL\NYPFINAL\obj\Debug\NYPFINAL.pdb
+D:\BELGELER\Dersler\3.YARIYIL\OOP\FinalOdevi\PROJE Dökümanları\NYPFINAL\NYPFINAL\obj\Debug\NYPFINAL.csprojResolveAssemblyReference.cache
+D:\BELGELER\Dersler\3.YARIYIL\OOP\FinalOdevi\PROJE Dökümanları\NYPFINAL\NYPFINAL\obj\Debug\NYPFINAL.frmAnasayfa.resources
+D:\BELGELER\Dersler\3.YARIYIL\OOP\FinalOdevi\PROJE Dökümanları\NYPFINAL\NYPFINAL\obj\Debug\NYPFINAL.Properties.Resources.resources
+D:\BELGELER\Dersler\3.YARIYIL\OOP\FinalOdevi\PROJE Dökümanları\NYPFINAL\NYPFINAL\obj\Debug\NYPFINAL.csproj.GenerateResource.Cache
+D:\BELGELER\Dersler\3.YARIYIL\OOP\FinalOdevi\PROJE Dökümanları\NYPFINAL\NYPFINAL\obj\Debug\NYPFINAL.exe.licenses

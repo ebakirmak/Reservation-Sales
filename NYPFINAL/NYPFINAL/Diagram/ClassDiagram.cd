@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NYPFINAL.Bilet" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEQAAAAAAAAAAgAAACAAAAAAAAAgA=</HashCode>
+      <FileName>BL\Bilet\Bilet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NYPFINAL.Ogrenci" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Bilet\Ogrenci.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NYPFINAL.Tam" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Bilet\Tam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NYPFINAL.Hat" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAQAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Hat\Hat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NYPFINAL.Hatlar" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAACAAAAEAAAAAAAAAAABAgAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Hat\Hatlar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NYPFINAL.Kisi" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAIAABAAAAAAAAAAAAAAAAACAAAAAgAAAA=</HashCode>
+      <FileName>BL\Kisi\Kisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NYPFINAL.Yolcu" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABBEAAAAAACAAAAIAAAAAAgQAAAIAA=</HashCode>
+      <FileName>BL\Kisi\Yolcu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NYPFINAL.Yolcular" Collapsed="true">
+    <Position X="10.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAIAQAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Kisi\Yolcular.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NYPFINAL.Havale" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAKAAAAAAAAAAgAAAACEAAAAAA=</HashCode>
+      <FileName>BL\Odeme\Havale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NYPFINAL.KrediKart" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Odeme\KrediKart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NYPFINAL.Odeme" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAACAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Odeme\Odeme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NYPFINAL.Gidis" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAACAAABAAAAgAAA=</HashCode>
+      <FileName>BL\Rezervasyon\Gidis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NYPFINAL.GidisDonus" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAACAAABAAAAgBAA=</HashCode>
+      <FileName>BL\Rezervasyon\GidisDonus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NYPFINAL.Rezervasyon" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAIEAAAQAAAAAAAAACAAAAAAAAgAgA=</HashCode>
+      <FileName>BL\Rezervasyon\Rezervasyon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
